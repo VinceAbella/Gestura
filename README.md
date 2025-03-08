@@ -11,6 +11,10 @@ Basic Sign Language Translator
 
 ## ⚙️ **SYSTEM ARCHITECTURE**
 
+As mentioned above, the system uses the device camera to track hand gesutres. Whenever a hand is visible in a camera, the system automatically assign landmarks or key points to certain parts of the hand. These key points determine coordinates, and specific coordinates that represent sign language letters are then translated once the system recognizes it. 
+
+Furthermore, the system employs a trained model which can detect coordinates and present a very accurate translation based on the extracted set of coordinates. In order for the trained model to perform correctly and provide accurate outputs, extensive amounts of data was required to be fed to the model. A program similar to the system that detects hands and assigns coordinates were used to collect data easily. This program captured five sets of hand gesture coordinates for each letter translation in the American Sign Language (ASL). The data gathered was compiled into a comma-separated value (CSV) file which was then recognized and learned by the model in order to have a high percentage of successful performance. 
+
 ---
 
 ## 🧩 **ALHORITHMS USED**
