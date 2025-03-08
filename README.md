@@ -17,12 +17,25 @@ Furthermore, the system employs a trained model which can detect coordinates and
 
 ---
 
-## 🧩 **ALHORITHMS USED**
-
----
-
 ## 📝 **HOW TO RUN THE PROJECT**
+1. **Prerequisites**  
+   - Ensure to install and use Python version 3.8.10 specifically on your system.  
+   - Download or clone the Gestura project files from this repository.
 
+2. **Installing Dependencies**  
+   - Open a terminal and type this command to install the necessary packages:  
+     ```
+     pip install opencv-python mediapipe numpy pandas scikit-learn
+     ```
+
+    - ✅ **opencv-python** → For real-time webcam input & display.
+    - ✅ **mediapipe** → For hand tracking & landmark extraction.
+    - ✅ **numpy** → For numerical operations on landmark data.
+    - ✅ **pandas** → For handling CSV data.
+    - ✅ **scikit-learn** → For training & using the SVM model.
+
+3. **Running the Project**  
+   - Once everything is prepared, run the <ins>main.py</ins> file.
 
 ---
 
