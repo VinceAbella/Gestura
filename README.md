@@ -9,20 +9,20 @@ Basic Sign Language Translator
 
 ---
 
-SYSTEM ARCHITECTURE
+## **SYSTEM ARCHITECTURE**
 
 ---
 
-ALHORITHMS USED
+## **ALHORITHMS USED**
 
 ---
 
-HOW TO RUN THE PROJECT
+## **HOW TO RUN THE PROJECT**
 
 
 ---
 
-APP PREVIEW
+## **APP PREVIEW**
 
 ---
 
@@ -36,4 +36,4 @@ APP PREVIEW
 
 ---
 
-ACKNOWLEDGEMENT
+## **ACKNOWLEDGEMENT**
