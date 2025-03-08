@@ -41,7 +41,10 @@ Furthermore, the system employs a trained model which can detect coordinates and
 
 ## 📷 **APP PREVIEW**
 
----
+![FrontButtons](images/imageone.png)
+![KSign](images/imagetwo.png)
+![GSign](images/imagethree.png)
+![StopButton](images/imagefour.png)
 
 ##  <a id = "contrib"> 👷‍ CONTRIBUTORS </a> <br>
 
@@ -54,3 +57,5 @@ Furthermore, the system employs a trained model which can detect coordinates and
 ---
 
 ## 🤝 **ACKNOWLEDGEMENT**
+
+We are incredibly grateful to **Ms. Fatima Marie P. Agdon, MSCS** for being more than just a mentor but also a true guiding light throughout this journey. Your hands-on approach and unwavering support have made learning both exciting and meaningful.Your patience, wisdom, and encouragement have not only helped us build this project but have also shaped us into more confident and capable individuals. Your passion for teaching and dedication to your students inspire us every day. From the bottom of our hearts, thank you for your kindness, guidance, and for always believing in us.
