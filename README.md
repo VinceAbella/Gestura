@@ -28,11 +28,11 @@ Furthermore, the system employs a trained model which can detect coordinates and
      pip install opencv-python mediapipe numpy pandas scikit-learn
      ```
 
-    - ✅ **opencv-python** → For real-time webcam input & display.
-    - ✅ **mediapipe** → For hand tracking & landmark extraction.
-    - ✅ **numpy** → For numerical operations on landmark data.
-    - ✅ **pandas** → For handling CSV data.
-    - ✅ **scikit-learn** → For training & using the SVM model.
+       - ✅ **opencv-python** → For real-time webcam input & display.
+       - ✅ **mediapipe** → For hand tracking & landmark extraction.
+       - ✅ **numpy** → For numerical operations on landmark data.
+       - ✅ **pandas** → For handling CSV data.
+       - ✅ **scikit-learn** → For training & using the SVM model.
 
 3. **Running the Project**  
    - Once everything is prepared, run the <ins>main.py</ins> file.
