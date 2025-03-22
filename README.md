@@ -1,5 +1,5 @@
-## ✌️**GESTURA**
-Basic Sign Language Translator
+## ✌️**GESTURA** : Basic Sign Language Translator
+
 
 ---
 
